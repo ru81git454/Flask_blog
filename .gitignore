@@ -1,0 +1,4 @@
+Flask_blog/__pycache__/*
+Flask_blog/.vscode/*
+flaskblog/__pycache__/*
+*.pyc
